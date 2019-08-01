@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "flaskApp.app",
+        "profile_name": "dsdev",
+        "project_name": "zappapsmaapipro",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-b9vvo3qr8"
+    }
+}
